@@ -1,0 +1,45 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.hakkimizda{
+    color: indigo;
+}
+
+body h2{
+    color: goldenrod;
+}
+
+.list{
+margin-left: 45%;
+}
+
+.btn{
+    margin-left: 43%;
+}
+
+ a{ 
+    text-decoration: none;
+    padding-right: 8px;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.card{
+    margin:auto;
+    border-radius: 10px;
+}
+.card-title{
+    text-align: center;
+    color: slateblue;
+   
+}
+
+.fiat{
+    background-color:gray;
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+
+}
